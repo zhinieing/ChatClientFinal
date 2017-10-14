@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pengming/.android/build-cache/baf64d01cc3bda61be273621f96b7f01b26073c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/pengming/Downloads/ChatClientFinal/app/build/intermediates/pre-dexed/debug/classes_83e887444c5df9864843e3f8d667e100ca39798e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pengming/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/pengming/Downloads/ChatClientFinal/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_b60d41be8feea1822c5db79dd011709dfcda283c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pengming/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/pengming/Downloads/ChatClientFinal/app/build/intermediates/pre-dexed/debug/gson-2.7_b85f15f36432f8022834eee91edd1035de04d226.jar" />
+    </item>
+
+</items>
